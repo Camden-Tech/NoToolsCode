@@ -1,0 +1,8 @@
+main: me.BaddCamden.DamageWhenSneak.Main
+name: DamageWhenSneak
+version: 1.0
+author: BaddCamden
+
+api-version: 1.17
+
+depend: [ManhuntPlus]
